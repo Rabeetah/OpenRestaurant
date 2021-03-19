@@ -1,0 +1,46 @@
+.div1 
+{
+    background:transparent;
+    color: black;
+    font-family: Times, "Times New Roman", serif;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding: 20px;
+    width: 400px;
+    height: 500px;
+}
+
+label{
+    text-align: start;
+}
+input[type="submit"]:hover 
+{
+    background-color: black;
+    color: white;
+}
+  
+.butn
+{
+    background-color: transparent;
+    border: 1px solid black;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color:black ;
+    border-radius: 0%;
+
+}
+
+h1 
+{
+    padding-top: 0%;
+    padding-bottom: 10%;
+    text-decoration: underline;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}

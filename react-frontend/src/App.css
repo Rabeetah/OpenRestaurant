@@ -1,0 +1,133 @@
+
+
+
+
+.App {
+  /* text-align: center; */
+  /* margin-left: 28em; */
+  justify-content: center;
+  align-content: center;
+  align-self: center;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+/* 
+.Nav-bar {
+  display: flex;
+  border-bottom: 1px solid var(--color3);
+  padding: 0em;
+  margin: 0;
+  border-bottom-right-radius: 30px 10px;
+  border-bottom-left-radius: 30px 10px;
+}
+
+.App-logo {
+  margin-top: 25px;
+  float: left;
+  padding: 0.5em;
+  margin: 0em;
+  height: 40px;
+  width: 40px;
+  pointer-events: none;
+}
+
+.App-name {
+  margin: 0;
+  padding: 0;
+  padding-top: 0.7em;
+}
+
+.open {
+  font-family: Papyrus, fantasy;
+  color: var(--color3);
+}
+
+.rest {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  color: var(--color3);
+}
+
+nav {
+  padding: 1em;
+  flex: 60%;
+  text-align: center;
+  align-items: center;
+}
+
+nav li{
+  display: inline;
+  padding-right: 2em;
+  margin-right: 10px;
+  color:var(--color3);
+}
+
+ul li a{
+  font-size: 1.0em;
+}
+
+a{
+  color: var(--color3);
+  text-decoration: none;
+  padding-right: 2em;
+  font-weight: bold;
+}
+ */
+
+/* header {
+  height: 20px;
+  color: var(--white);
+  font-size: 0.8em;
+  text-align: center;
+  background-color: var(--color3);
+  opacity: 80%;
+} */
+
+/* header, .Nav-bar {
+  top: 0;
+  position: fixed;
+  width: 100%;
+} */
+/* 
+.Nav-buttons {
+  flex: 30%;
+}
+
+Button {
+  margin: 0.7em;
+  margin-left: 0em;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.App-intro{
+  clear: both;
+  display: block;
+  text-align: center;
+  margin: 4em;
+  height: 800em;
+}
+
+footer {
+  bottom: 0;
+  height: 200px;
+  background-color: var(--color3);
+  opacity: 80%;
+  padding-top: 4px;
+  border-top-right-radius: 20px 10px;
+  border-top-left-radius: 20px 10px;
+  text-align: center;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */

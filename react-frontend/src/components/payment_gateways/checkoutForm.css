@@ -1,0 +1,55 @@
+.pay-Form {
+    margin: 5em;
+    margin-top: 2em;
+}
+.Form Input {
+    margin-right: 10em;
+    display: inline;
+    color: var(--color3);
+}
+.FormRowInput:disabled{
+    color:#555;
+}
+.ErrorMessage {
+    margin-left: 10em;
+    margin-bottom: 5em;
+}
+.FormGroup {
+    padding-left: 5em;
+   padding-right: 5em;
+    margin-bottom: 2em;
+}
+.pay-button {
+    border: none;
+    background-color: var(--color2);
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-left: 5em;
+    border-radius: 3px;
+    color: white;
+}
+.form-containter {
+    height: 40em;
+    margin-top: 2.5em;
+    padding-top: 5em;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+.label-form {
+    color: var(--color3);
+    font-weight: 600;
+}
+/* 
+.payment-heading {
+} */
+.payment-heading {
+    text-align: center;
+    margin-left: 8.5em;
+    margin-right: 8.5em;
+    color: var(--color3);
+    text-decoration: none;
+}
+.checkout-form-container {
+    margin: 6em;
+    margin-top: 2em;
+}

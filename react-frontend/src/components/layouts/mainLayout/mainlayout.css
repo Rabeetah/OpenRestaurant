@@ -1,0 +1,45 @@
+.site-card-wrapper {
+    
+    border-radius: 10px;
+    margin: 100px;
+  display: flex;
+  flex-wrap: wrap;
+    padding:0;
+    align-items: center;
+    text-align: center;
+    
+    
+} 
+
+.mcard
+{
+  flex: 25%;
+}
+
+.App-namee {
+    margin-top: 15px;
+    
+    float: left;
+    margin-right:15px;
+  
+  
+  }
+  
+  
+  .openn {
+      font-family: Papyrus, fantasy;
+      color:white;
+   
+      
+    }
+    
+  .restt {
+      font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+      color:white;
+      
+      
+    }
+
+
+
+   

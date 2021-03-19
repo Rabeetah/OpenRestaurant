@@ -1,0 +1,32 @@
+.review-card h4{
+    float: right;
+}
+
+.review .content {
+    clear: both;
+}
+
+
+.review Button {
+    max-width: 3em;
+    height: 2em;
+
+}
+
+
+
+.card-review{
+    border-top: 1px var(--color1) solid;
+}
+
+Card {
+    display: flex;
+}
+
+.content {
+    flex: 60%;
+}
+
+.card {
+    background-color: transparent;
+}

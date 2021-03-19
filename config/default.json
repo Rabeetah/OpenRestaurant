@@ -1,0 +1,9 @@
+{
+    "mongoURI" : "mongoURI",
+    "jwtSecret" : "key",
+    "JWT_ACCOUNT_ACTIVATION": "key",
+    "client_url": "http://localhost:4000",
+    "MAIL_KEY": "key",
+
+    "email_from": "email"
+}

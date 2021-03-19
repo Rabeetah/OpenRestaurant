@@ -1,0 +1,39 @@
+/* .App-intro {
+    padding-left: 40vw;
+} */
+
+.heading-payment-types {
+    text-align: start;
+}
+
+.vertical-nav {
+    text-align: start;
+}
+
+.vertical-nav li{
+    display: block;
+    padding-right: 2em;
+    margin-right: 10px;
+    text-align: start;
+    color:var(--black);
+    list-style-position: outside;
+    list-style-type: square;
+  }
+  
+.vertical-nav  ul li a{
+    font-size: 2em;
+    list-style-position: outside;
+    list-style-type: square;
+  }
+  
+  .vertical-nav  Link {
+    color: var(--black);
+  }
+
+  .vertical-nav  a{
+    color: var(--black);
+    text-decoration: none;
+    padding-right: 2em;
+    font-weight: 400;
+  }
+  

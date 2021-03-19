@@ -1,0 +1,21 @@
+.options-container {
+    display: inline;
+    flex-wrap: wrap;
+  }
+  
+  .option-button {
+    margin: 2px;
+    border-radius: 15px;
+    padding: 3px;
+    border-color:#ED7014;
+    background: transparent;
+    text-align: center;
+    color:#ED7014;
+    width: 10rem;
+    
+  }
+
+  .option-button:hover {
+    background-color:"transparent";
+    color: black;
+  }

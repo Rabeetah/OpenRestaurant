@@ -1,0 +1,59 @@
+.Login-container1 {
+ 
+    background:white;
+    opacity: 80%;
+    color: var(--color2);
+    font-family: Times, "Times New Roman", serif;
+    text-align: center;
+    margin-top: 5em;
+    /* margin-bottom: 100px; */
+    border-radius: 50px;
+    border: 2px solid var(--color2);
+    padding: 20px;
+    width: 430px;
+    height: 500px;
+}
+
+.myheading {
+text-decoration: underline;
+}
+   
+.para{
+text-decoration-line: underline;
+}
+input[type="submit"]{
+background-color: transparent;
+border: 1px solid var(--color4);
+padding-left: 1.5em;
+padding-right: 1.5em;
+padding-top: 0.5em;
+padding-bottom: 0.5em;
+transition-duration: 0.4s;
+border-radius: 50px;
+margin-top: 10px;
+color:var(--color4) ;
+
+}
+
+.mycheck{
+float: none;
+
+}
+
+input[type="submit"]:hover {
+background-color: black;
+color: white;
+}
+
+.input-with-icon-grid1{
+    float:none;
+
+}
+
+
+
+
+
+
+
+

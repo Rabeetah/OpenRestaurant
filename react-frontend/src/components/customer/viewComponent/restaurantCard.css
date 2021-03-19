@@ -1,0 +1,43 @@
+
+.rating-card .rating-unit {
+    background-color: white;
+    margin: 0;
+    border: none;
+}
+
+.rating-unit {
+    display: inline;
+}
+.card-unit {
+    background-color: white;
+    border-radius: 10px;
+    margin: 0;
+    padding:0;
+    align-items: center;
+    text-align: center;
+} 
+Rate {
+    display: inline;
+}
+.card-img {
+    border-radius: 10px;
+}
+.cover-image {
+    padding: 2em;
+    padding-top: 2em;
+    padding-bottom: 0%;
+}
+.card-meta {
+    padding-bottom: 1em;
+}
+.cover-image-deal {
+    padding: 5em;
+    padding-top: 2em;
+    padding-bottom: 0%;
+}
+.price {
+    font-weight: 600;
+}
+.price {
+    font-weight: 500;
+}

@@ -1,0 +1,16 @@
+.border-div{
+    margin: 4em;
+    padding: 5em;
+    border-bottom: 2px;
+    border : 1px solid black;
+}
+.hr{
+    padding-left: 10em;
+    padding-right: 10em;
+    height: 2px;
+}
+.profile-div{
+    display: table-caption;
+    justify-content: center;
+    align-items: center;
+}

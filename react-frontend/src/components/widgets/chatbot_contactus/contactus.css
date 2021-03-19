@@ -1,0 +1,15 @@
+.url-link {
+ 
+    padding: 10px;
+   
+    background-color: #F99245;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 12px;
+  }
+  .site-form-item-icon
+  {
+      margin-right: 5px;
+      height:10px;
+  }

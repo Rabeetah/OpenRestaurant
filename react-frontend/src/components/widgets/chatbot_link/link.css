@@ -1,0 +1,22 @@
+.url-link {
+ 
+    padding: 10px;
+   
+    background-color: #F99245;
+    display: flex;
+    align-items: center;
+    color: #fff;
+  }
+  
+  .url-icon {
+    fill: #fff;
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+    margin-top: 0px;
+  }
+  
+  .url-header {
+    font-size: 16px;
+    margin-top:4px;
+  }

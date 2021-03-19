@@ -1,0 +1,129 @@
+.about-us-container {
+    padding: 2em;
+    background: url('../../../assets/images/mostbeautiful.png');
+}
+
+.heading-our-story {
+     max-width: fit-content;
+    min-width: fit-content;
+    padding: 0em ;
+    max-height: fit-content;
+    transform: rotate(-6deg);
+    opacity: 70%;
+    
+}
+.heading-our-story:hover{
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    from {background-color: white;}
+    to {background-color: var(--color3);}
+    
+  }
+.our-story {
+    font-family: '-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"';
+    font-size: 64px;
+    /* text-decoration: none; */
+    padding: 0;
+    font-weight: 400;
+    text-decoration: wavy;
+    transform: rotate(6deg);
+    opacity: 85%;
+}
+.our-story:hover{
+    animation: mymove1 4s;
+}
+@keyframes mymove1 {
+    from {color: var(--color3);}
+    to {color: white;}
+  }
+.story-part1 {
+    max-width: 100%;
+   min-width: 100%;
+   padding: 0em ;
+   max-height: fit-content;
+   opacity: 85%;
+   clear: both;
+   /* float: left; */
+}
+.story-1-picture-card:hover{
+    animation: mymove2 3s infinite;
+}
+@keyframes mymove2 {
+    from {transform:  rotate(-8deg);}
+    to { transform: rotate(0deg);}
+  }
+  .story-1-picture-card {
+      display: inline;
+    max-width: fit-content;
+   min-width: fit-content;
+   padding: 0em ;
+   max-height: fit-content;
+   transform: rotate(-8deg);
+   opacity: 95%;
+   float: left;
+   background-color: white;
+   
+}
+.story-part1-p {
+   min-width: 70%;
+   margin-top: 4em;
+   margin-right: 8em;
+   margin-left: 0;
+   padding: 2em;
+   left: -1;
+   border-bottom-right-radius: 20px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-top-left-radius: 20px;
+   max-height: 80%;
+   opacity: 60%;
+   float:left;
+   color: white;
+   background-color: var(--color3);
+}
+.story-part2 {
+    max-width: 80%;
+   min-width: 80%;
+   padding: 0em ;
+   max-height: fit-content;
+   opacity: 85%;
+   clear: both;
+   /* float: left; */
+}
+.story-2-picture-card:hover{
+    animation: mymove3 3s;
+}
+@keyframes mymove3 {
+    from {transform:  rotate(8deg);}
+    to { transform: rotate(0deg);}
+  }
+  .story-2-picture-card {
+      display: inline;
+    max-width: fit-content;
+   min-width: fit-content;
+   padding: 0em ;
+   max-height: fit-content;
+   transform: rotate(8deg);
+   opacity: 95%;
+   float: right;
+   background-color: var(--color3);
+   
+}
+.story-part2-p {
+   min-width: 60%;
+   margin-top: 4em;
+   margin-left: 8em;
+   margin-right: 0;
+   padding: 2em;
+   right: -1;
+   border-bottom-right-radius: 20px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-top-left-radius: 20px;
+   max-height: 80%;
+   opacity: 85%;
+   float: right;
+   color: var(--color3);
+   background-color: white;
+}

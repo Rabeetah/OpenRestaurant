@@ -1,0 +1,48 @@
+#components-layout-demo-side .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+  
+.site-layout .site-layout-background {
+    background: #fff;
+}
+
+/* .App-logo {
+    float: left;
+    height: 30px;
+    width: 30px;
+    pointer-events: none;
+} */
+
+h3 {
+    float: left;
+}
+
+.open {
+    font-family: Papyrus, fantasy;
+    color: #fff;
+}
+  
+.rest {
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    color: #fff;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--tomato);
+}
+
+Header > h5 {
+    float: right;
+    color: white;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    padding-top: 1em;
+}
+Header > h2 {
+    float: left;
+    padding-top: 0.5em;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.clear-div {
+    clear: both;
+}
